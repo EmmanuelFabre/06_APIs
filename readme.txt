@@ -1,0 +1,7 @@
+WeatherPy Observations:
+
+1. The 20 degrees north and south of the equator clearly have similar temperature points reflecting comfortable to hot temperatures (65-70° F+).  The plot clearly shows this with a flat distribution of data points in that latitude range (20 degrees or less). At more extreme latitudes (20 degrees +), the northern hemisphere is currently experiencing the winter season as the southern hemisphere experiences their summer.  The latitude versus temperature plot clearly shows this with the vast majority of locations below the equator experiencing temperatures above 50° F. As we move north of the equator (positive latitude coordinates), the temperatures drop steadily in a clearly defined pattern on the scatter plot.
+
+2. The latitude versus humidity plot shows that the northern hemisphere is currently experiencing much more rain than the southern hemisphere. Especially north of 40° latitude, there is an especially thick cluster of data points showing high humidity. This once again reflects the facts that the northern hemisphere is currently experiencing wet, winter weather. 
+
+3. The latitude versus cloudiness plot demonstrates that the southern hemisphere is experiencing much sunnier skies than the northern half of the planet. Finally, the latitude versus wind speed plot does not seem to demonstrate any clear pattern. Apart from a few outliers, the vast majority of southern and northern hemisphere cities sampled are experiencing mild wind patterns below 20 mph.
